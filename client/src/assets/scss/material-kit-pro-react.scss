@@ -1,0 +1,15 @@
+// Core Components
+@import "core/variables";
+@import "core/mixins";
+@import "core/fileupload";
+@import "core/keyframes";
+
+// Core Plugins
+@import "core/misc";
+
+// @import "plugins/plugin-datetime-picker";
+@import "plugins/_plugin-nouislider";
+@import "plugins/_plugin-react-datetime";
+@import "plugins/_plugin-react-image-gallery";
+@import "plugins/_plugin-react-slick";
+@import "plugins/_plugin-react-tagsinput";
